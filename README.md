@@ -5,8 +5,6 @@ This project was developed as part of the **Zaka AI Certification Program**, whe
 
 ---
 
-# Object Detection with YOLO: Mugs vs. Bottles
-
 This repository showcases a custom object detection project using **YOLO (You Only Look Once)**, where we trained a model to distinguish between **mugs** and **bottles**.
 
 ---
