@@ -1,5 +1,5 @@
 # Object Detection with YOLO - Mugs Vs. Bottles
-# Secured Top 4 – Zaka AI Certification Program Challenge
+Secured Top 4 – Zaka AI Certification Program Challenge
 
 This project was developed as part of the **Zaka AI Certification Program**, where we explored object detection using YOLO. It secured a **Top 4 position** in the final challenge among all participants.
 
